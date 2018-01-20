@@ -1,3 +1,5 @@
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/project-cobalt/cobalt-api/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/project-cobalt/cobalt-api/?branch=master) [![Code Coverage](https://scrutinizer-ci.com/g/project-cobalt/cobalt-api/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/project-cobalt/cobalt-api/?branch=master) [![Build Status](https://scrutinizer-ci.com/g/project-cobalt/cobalt-api/badges/build.png?b=master)](https://scrutinizer-ci.com/g/project-cobalt/cobalt-api/build-status/master) [![Code Intelligence Status](https://scrutinizer-ci.com/g/project-cobalt/cobalt-api/badges/code-intelligence.svg?b=master)](https://scrutinizer-ci.com/code-intelligence)
+
 # Project Cobalt: cobalt-api
 This is the core for the APIs.
 
