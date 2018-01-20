@@ -6,7 +6,7 @@ This is the core for the APIs.
 ## Setup
 Before trying to use the application, it is recomended to create a new virtualenv.
 
-### macOS
+### macOS / Linux
 Be sure to have `Python 3` and `virtualenv-wrapper`.
 
 ```
