@@ -2,10 +2,11 @@
 
 from app import db
 
-Class Cpu_Mode(db.Model):
+
+class Cpu_Mode(db.Model):
     """Full CPU model specification"""
 
-    # Interna unique autoincremental ID
+    # Internal unique autoincremental ID
     id = db.Column(db.Integer, primary_key=True, autoincrement=True)
     # Product name (es. INTEL® CORE™ i7-8709G)
     name = db.Column(db.String(40), unique=True, nullable=False)
